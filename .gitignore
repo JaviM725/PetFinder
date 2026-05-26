@@ -1,0 +1,98 @@
+# =========================
+# SISTEMA OPERATIVO
+# =========================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# =========================
+# VISUAL STUDIO CODE
+# =========================
+
+.vscode/
+
+# =========================
+# INTELLIJ IDEA
+# =========================
+
+.idea/
+*.iml
+out/
+
+# =========================
+# NETBEANS
+# =========================
+
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# =========================
+# JAVA
+# =========================
+
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# =========================
+# MAVEN
+# =========================
+
+target/
+
+# Maven Wrapper logs
+.mvn/wrapper/maven-wrapper.jar
+
+# =========================
+# GRADLE
+# =========================
+
+.gradle/
+build/
+
+# =========================
+# ARCHIVOS TEMPORALES
+# =========================
+
+*.tmp
+*.swp
+*.swo
+
+# =========================
+# CONFIGURACIONES SENSIBLES
+# =========================
+
+.env
+.env.local
+
+# =========================
+# BINARIOS
+# =========================
+
+bin/
+
+# =========================
+# NODE (si usas frontend)
+# =========================
+
+node_modules/
+
+# =========================
+# ARCHIVOS DE COMPILACIÓN
+# =========================
+
+coverage/
