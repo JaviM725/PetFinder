@@ -1,0 +1,13 @@
+com\royal\msadopter\config\WebClientConfig.class
+com\royal\msadopter\dto\response\AdopterProfileResponseDTO.class
+com\royal\msadopter\dto\request\SwipeRequestDTO.class
+com\royal\msadopter\controller\AdopterProfileRestController.class
+com\royal\msadopter\repository\SwipeActionRepository.class
+com\royal\msadopter\repository\AdopterProfileRepository.class
+com\royal\msadopter\config\MsAdopterClientProperties$Service.class
+com\royal\msadopter\service\AdopterProfileService.class
+com\royal\msadopter\config\MsAdopterClientProperties.class
+com\royal\msadopter\dto\request\PreferencesRequestDTO.class
+com\royal\msadopter\dto\response\SwipeActionResponseDTO.class
+com\royal\msadopter\dto\response\PreferencesResponseDTO.class
+com\royal\msadopter\dto\request\AdopterProfileRequestDTO.class
